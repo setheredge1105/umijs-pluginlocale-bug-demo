@@ -5,7 +5,8 @@ export default defineConfig({
   exportStatic: {
     htmlSuffix: true,
   },
-  publicPath: 'https://setheredge1105.github.io/umijs-pluginlocale-bug-demo/',
+  publicPath:
+    'https://setheredge1105.github.io/umijs-pluginlocale-bug-demo/dist/',
   locale: {
     default: 'en-US',
     antd: true,
