@@ -2,7 +2,10 @@ import { defineConfig } from 'umi';
 
 export default defineConfig({
   base: '/',
-  publicPath: '/umijs-pluginlocale-bug-demo/',
+  exportStatic: {
+    htmlSuffix: true,
+  },
+  publicPath: 'https://setheredge1105.github.io/umijs-pluginlocale-bug-demo/',
   locale: {
     default: 'en-US',
     antd: true,
