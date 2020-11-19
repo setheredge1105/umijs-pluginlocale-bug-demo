@@ -1,0 +1,1 @@
+# umijs-pluginlocale-bug-demo
