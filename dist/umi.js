@@ -49,7 +49,8 @@
     (n.o = function(e, t) {
       return Object.prototype.hasOwnProperty.call(e, t);
     }),
-    (n.p = 'https://setheredge1105.github.io/umijs-pluginlocale-bug-demo/'),
+    (n.p =
+      'https://setheredge1105.github.io/umijs-pluginlocale-bug-demo/dist/'),
     n((n.s = 0));
 })({
   '+2a4': function(e, t, n) {
